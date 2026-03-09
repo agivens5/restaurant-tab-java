@@ -1,2 +1,2 @@
 # restaurant-tab-java
-Java restaurant order management system using object-oriented programming.
+Object-oriented Java program that simulates a restaurant ordering system with order management, tax calculation, and unit testing.
